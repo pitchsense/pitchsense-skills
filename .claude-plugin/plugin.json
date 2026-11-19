@@ -1,0 +1,21 @@
+{
+  "name": "pitchsense-sales-roleplay",
+  "displayName": "PitchSense Sales Roleplay",
+  "version": "0.1.0",
+  "description": "Practise sales calls with an AI buyer in Claude: prep card, typed warm-up, voice call and a scored evaluation. Demo mode with fictional data.",
+  "author": {
+    "name": "PitchSense",
+    "url": "https://pitchsense.ai"
+  },
+  "homepage": "https://pitchsense.ai",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "sales roleplay",
+    "sales training",
+    "sales coaching",
+    "objection handling",
+    "discovery",
+    "founder sales"
+  ]
+}

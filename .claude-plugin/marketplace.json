@@ -1,0 +1,15 @@
+{
+  "name": "pitchsense",
+  "description": "PitchSense sales roleplay skills for Claude.",
+  "owner": {
+    "name": "PitchSense",
+    "url": "https://pitchsense.ai"
+  },
+  "plugins": [
+    {
+      "name": "pitchsense-sales-roleplay",
+      "source": "./",
+      "description": "Practise sales calls with an AI buyer in Claude: prep card, typed warm-up, voice call and a scored evaluation."
+    }
+  ]
+}
