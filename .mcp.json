@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pitchsense": {
+      "type": "http",
+      "url": "https://pitchsense-connector.pitchsense.workers.dev/mcp"
+    }
+  }
+}
